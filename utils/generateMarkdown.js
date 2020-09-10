@@ -28,7 +28,7 @@ ${data.contribution}
 ${data.test}
 
 ## License
-![License](https://img.shields.io/badge/License-${data.license}-blue.svg "License Badge')
+![License](https://img.shields.io/badge/License-${data.license}-blue.svg 'License Badge')
 ${data.license}
 
 ## Questions
