@@ -13,6 +13,16 @@ const questions = [
         type: "input",
         name: "description",
         message: "Describe your project."
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "If any, what are the installation instructions? Otherwise type NONE."
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "How would the user use the application?"
     }
 ];
 
