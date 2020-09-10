@@ -23,7 +23,24 @@ const questions = [
         type: "input",
         name: "usage",
         message: "How would the user use the application?"
-    }
+    },
+    {
+        type: "checkbox",
+        name: "license",
+        message: "Choose a license",
+        choices: [
+            "GPL",
+            "MIT",
+            "Apache",
+            "No License"
+        ]
+    },
+    {
+        type: "input",
+        name: "contribution",
+        message: "Add instructions on how someone can contribute to your project:"
+    },
+    
 ];
 
 // function to write README file
