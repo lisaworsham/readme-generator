@@ -25,6 +25,8 @@ If you wish to pull from this repository, you may do so. However, to contribute,
 ## Test
 [Test](https://youtu.be/J1v93FHAc4s)
 
+[![video demo](https://i.imgur.com/Lvxfqon.png)](https://youtu.be/J1v93FHAc4s)
+
 ## License
 ![License](https://img.shields.io/badge/License--blue.svg 'License Badge')
 
